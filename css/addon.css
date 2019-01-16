@@ -1,0 +1,71 @@
+
+.navs {
+	width: 100%;
+	background-color: #4267b2;
+	border-bottom: 1px solid #29487d;
+	color: white;
+	text-align: center;
+	padding-top: 0.3%;
+	padding-bottom: 0.3%;
+}
+
+.footer {
+	width: 100%;
+	background-color: #2dc3e8;
+	color: white;
+	text-align: center;
+	padding-top: 0.15%;
+	padding-bottom: 0.15%;
+}
+.panel-content
+{
+	background-color: #e9ebee;;
+	padding-top: 15px;
+}
+.card-header
+{
+	font-size: 11px;
+}
+.row-fixed-0
+{
+	margin-left: 0;
+	margin-right: 0;
+}
+.ok
+{
+	color:#4FB98E;
+}
+.fail
+{
+	color:#ED553B;
+}
+
+.titles
+{
+	font-size: 19px;
+}
+
+.navs-right
+{
+	padding-right: 15px;
+}
+.navs-right a
+{
+	color: #fff;
+}
+
+.navs-right a:hover
+{
+	color: #fddb3b;
+}
+.img-ico {
+	background-color: #fff;
+	max-width: 100%;
+	height: auto;
+}
+.sync-item
+{
+	padding-right: 15px;
+	padding-left: 15px;
+	width: 15%;
+}
