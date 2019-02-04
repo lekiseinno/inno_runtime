@@ -44,7 +44,7 @@
 				<div class="card-body" id="card-overflows" style="overflow: auto; height: 550px;">
 					<div class="row">
 						<div class="col">
-							Monitor Server
+							Monitor Server s
 						</div>
 					</div>
 					<hr>
